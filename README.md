@@ -1,4 +1,5 @@
-**Bankruptcy Prediction with Machine Learning**
+*Bankruptcy Prediction with Machine Learning*
+
 This repository contains a Jupyter Notebook for predicting bankruptcy using machine learning techniques. The Bankruptcy.ipynb notebook explores financial data, applies feature engineering, and builds predictive models to assess the likelihood of bankruptcy for companies.
 
 **Features:**
